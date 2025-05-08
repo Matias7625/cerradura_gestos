@@ -1,0 +1,3 @@
+0 Abrir
+1 Cerrar
+2 Neutro
